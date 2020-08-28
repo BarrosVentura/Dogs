@@ -36,7 +36,6 @@ const LoginPasswordLost = () => {
           )}
         </form>
       )}
-
       <Error error={error} />
     </section>
   );
